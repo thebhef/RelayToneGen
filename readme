@@ -1,0 +1,3 @@
+Tone generator for relay board containing a few dozen Panasonic DS4E-M-DC5V relays. 12 are used in the project.
+At full tilt, sounds like a hair clipper with some weird overtones. The tone designated in the ToneGen 
+function call is hard to make out over the noise of the relays.
